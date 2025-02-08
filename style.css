@@ -1,0 +1,29 @@
+*{
+font-family: Arial, Helvetica, sans-serif;
+
+}
+header{
+    border: 1px solid  red;
+}
+nav{
+    border: 1px solid black;
+    float: left;
+    width: 20%;
+    height: 365px;
+
+}
+
+.contenedor{
+    border: 1px solid green;
+    float: left;
+    width: 79.7%;
+}
+article{
+    border:  1px solid orange;
+}
+footer {
+    border: 1px solid  blue;
+}
+.claer{
+    clear: both;
+}
